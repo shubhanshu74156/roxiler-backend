@@ -23,7 +23,7 @@ To set up and run the MERN backend, follow these steps:
 2. **Install Dependencies:**
 
    ```
-   npm install
+   pnpm install
    ```
 
 3. **Configure Environment Variables:**
@@ -38,7 +38,7 @@ To set up and run the MERN backend, follow these steps:
 4. **Start the Server:**
 
    ```
-   npm start
+   pnpm start
    ```
 
 5. **Access the API:**
